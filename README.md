@@ -1,5 +1,7 @@
 ## About Curso Laravel: Criando um iFood Pt1
 
+- Curso realizado na School of Net
+- Instrutor: Carlos Gonçalves
 - Criação de um sistema MVC
 - Instalação do Laravel 7.*
 - Configurações das conexões com a base de dados
