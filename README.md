@@ -1,3 +1,19 @@
+## About Curso Laravel: Criando um iFood Pt1
+
+- Criação de um sistema MVC
+- Instalação do Laravel 7.*
+- Configurações das conexões com a base de dados
+- Instalação do Pacote: jeroennoten/laravel-adminlte
+- Criação da Model
+- Criação do Controller
+- Criação de rotas 
+- Criação de validações (Utilizando Request)
+- Criação de um filtro de pesquisa com paginação
+- Criação de arquivos de views utilizando blade
+- Criação de um Observer (associado ao Model)
+
+## Laravel
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
